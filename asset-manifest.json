@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/respondant-travel-profile/static/css/main.27062444.css",
+    "main.js": "/respondant-travel-profile/static/js/main.36b64210.js",
+    "index.html": "/respondant-travel-profile/index.html",
+    "main.27062444.css.map": "/respondant-travel-profile/static/css/main.27062444.css.map",
+    "main.36b64210.js.map": "/respondant-travel-profile/static/js/main.36b64210.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27062444.css",
+    "static/js/main.36b64210.js"
+  ]
+}
