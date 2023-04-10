@@ -1,14 +1,26 @@
 {
   "files": {
     "main.css": "/respondant-travel-profile/static/css/main.d4bc6c9e.css",
-    "main.js": "/respondant-travel-profile/static/js/main.4306c5a4.js",
+    "main.js": "/respondant-travel-profile/static/js/main.4557817b.js",
     "static/media/background.png": "/respondant-travel-profile/static/media/background.c6cd3a6d95c8b9cac010.png",
+    "static/media/two-wheeler.jpg": "/respondant-travel-profile/static/media/two-wheeler.714897fa00d95ae5d27a.jpg",
+    "static/media/walk.jpg": "/respondant-travel-profile/static/media/walk.d6862288756005ff8d94.jpg",
+    "static/media/standing-people.jpg": "/respondant-travel-profile/static/media/standing-people.ae32367f8129112d9174.jpg",
+    "static/media/metro.jpg": "/respondant-travel-profile/static/media/metro.ba6df8a38abb8e123fe6.jpg",
+    "static/media/crowd.jpg": "/respondant-travel-profile/static/media/crowd.82e862c5076be373ade2.jpg",
+    "static/media/ac.jpg": "/respondant-travel-profile/static/media/ac.78b54c96382fce1bc127.jpg",
+    "static/media/bus2.jpg": "/respondant-travel-profile/static/media/bus2.a4bde1bc474f0ac9ecad.jpg",
+    "static/media/people.jpg": "/respondant-travel-profile/static/media/people.97b57c93e79b0bc842ed.jpg",
+    "static/media/seat.jpg": "/respondant-travel-profile/static/media/seat.369943c8553bfb815738.jpg",
+    "static/media/bus.jpg": "/respondant-travel-profile/static/media/bus.16522abcf63116b54d9d.jpg",
+    "static/media/taxi.jpg": "/respondant-travel-profile/static/media/taxi.eb425eecb36b999d43cb.jpg",
+    "static/media/car.jpg": "/respondant-travel-profile/static/media/car.c6d7e8755cc8bd8489d0.jpg",
     "index.html": "/respondant-travel-profile/index.html",
     "main.d4bc6c9e.css.map": "/respondant-travel-profile/static/css/main.d4bc6c9e.css.map",
-    "main.4306c5a4.js.map": "/respondant-travel-profile/static/js/main.4306c5a4.js.map"
+    "main.4557817b.js.map": "/respondant-travel-profile/static/js/main.4557817b.js.map"
   },
   "entrypoints": [
     "static/css/main.d4bc6c9e.css",
-    "static/js/main.4306c5a4.js"
+    "static/js/main.4557817b.js"
   ]
 }
